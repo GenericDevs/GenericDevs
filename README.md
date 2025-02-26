@@ -25,5 +25,5 @@ I am a **Software Engineer**, **Geospatial Data Scientist**, and **Cloud Enginee
 
 ## 📬 Connect with Me
 - 🌐 Portfolio: [vincentkadenge.com](#)
-- 💼 LinkedIn: [linkedin.com/in/vincent-magomere-b088ab18a]
-- 🐦 Twitter: [twitter.com/magomere_vmk]
+- 💼 LinkedIn: [linkedin.com/in/vincent-magomere-b088ab18a](#)
+- 🐦 Twitter: [twitter.com/magomere_vmk](#)
