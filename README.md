@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent Magomere Kedenge 👋
+# Hi there, I'm Vincent Magomere 👋
 
 ## About Me
 I am a **Software Engineer**, **Geospatial Data Scientist**, and **Cloud Engineer** passionate about building innovative geospatial applications and scalable cloud solutions.
