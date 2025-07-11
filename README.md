@@ -2,7 +2,7 @@
 <h3 align="center">🛰️ Geospatial Software Engineer | ☁️ Cloud Enthusiast | 📍 Nairobi, Kenya</h3>
 
 <p align="center">
-  <a href="mailto:vincent@example.com"><img src="https://img.shields.io/badge/Email-vincent@example.com-blue?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:vkadenge89@gmail.com"><img src="https://img.shields.io/badge/Email-vkadenge89@gmail.com-blue?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/vincent-magomere-b088ab18a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/GenericDevs"><img src="https://img.shields.io/badge/GitHub-@GenericDevs-black?style=flat&logo=github"></a>
   <a href="https://vincentkadenge.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome"></a>
